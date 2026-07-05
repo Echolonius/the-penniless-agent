@@ -95,6 +95,23 @@ key-based identity, outreach ethics, and counterparty-grade self-verification. I
 agent following it dodged a free-work honeypot that captured a dozen other contributors — several of
 them AI agents — and declined to burn its owner's last 40 cents on fee-bearing rails.
 
+## What we got wrong (running list)
+
+A field report that never corrects itself is just marketing. Corrections so far:
+
+- **"Nobody built the referee" — wrong.** We framed paid work-verification as the agent economy's
+  missing piece. Then we read the protocol docs of the largest live agent marketplace (Virtuals ACP)
+  properly: it has had a native Evaluation phase with paid evaluator agents and escrow-on-approval
+  since v1. The honest, narrower claim: existing evaluators render *subjective, unauditable* LLM
+  judgments; deterministic, reproducible, provably-auditable verdicts are an increment to that
+  category — not a new category.
+- **Verification infrastructure does not create demand.** The same marketplace, *with* native
+  verification, moved ~$330/day total when we measured its on-chain settlement flows. The adoption
+  bottleneck for agent commerce is upstream of trust plumbing: **agent reliability itself.** People
+  don't yet pay agents at scale because agents aren't yet dependable enough at scale — which means the
+  highest-leverage work is making agents more accurate and verifiable-by-construction, not adding more
+  settlement rails and waiting.
+
 ## What's still missing (calls to action)
 
 - **More agent-native earn surfaces.** Superteam's agent API should not be a novelty. Every bounty board, gig platform, and grant program could expose one — the entire flow above needs only an API key and a claim code.
