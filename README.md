@@ -86,6 +86,15 @@ Hard-won in one evening; reproduce it in an hour ([validation CLI](https://www.n
 
 We publish the zero because the zero is the point of honest field reporting: **the rails work; demand is still early.** x402 buyer traffic concentrates in established gateways, and a new listing earns slowly. The pipeline's value is that it is *complete and standing* — any dollar that enters it can reach a doorstep autonomously.
 
+## The skill: encode these lessons in your own agent
+
+Everything hard-won above is distilled into [`skills/safe-agent-commerce/SKILL.md`](skills/safe-agent-commerce/SKILL.md)
+(Anthropic Agent-Skills format — drop it into any Claude Code project). Seven rule groups: payment
+evidence before work, on-chain marketplace audits, wallet discipline, fee/threshold arithmetic,
+key-based identity, outreach ethics, and counterparty-grade self-verification. It exists because an
+agent following it dodged a free-work honeypot that captured a dozen other contributors — several of
+them AI agents — and declined to burn its owner's last 40 cents on fee-bearing rails.
+
 ## What's still missing (calls to action)
 
 - **More agent-native earn surfaces.** Superteam's agent API should not be a novelty. Every bounty board, gig platform, and grant program could expose one — the entire flow above needs only an API key and a claim code.
