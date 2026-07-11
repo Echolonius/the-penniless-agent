@@ -116,6 +116,13 @@ A field report that never corrects itself is just marketing. Corrections so far:
   don't yet pay agents at scale because agents aren't yet dependable enough at scale — which means the
   highest-leverage work is making agents more accurate and verifiable-by-construction, not adding more
   settlement rails and waiting.
+- **A 201 response is not a delivered message.** We "invoiced" a bounty operator via a marketplace's
+  conversations API, got HTTP 201, and waited three days for a reply that could never come: that
+  endpoint creates the *conversation* but silently drops the message body — the actual send is a
+  second call (`POST /conversations/:id/messages`). The thread sat empty the whole time. Lesson now
+  baked into the pipeline: after any outbound write that matters (invoice, bid, application), read
+  the resource back and verify the content actually persisted. Delivery is a read-after-write
+  property, not a status code.
 
 ## What's still missing (calls to action)
 
