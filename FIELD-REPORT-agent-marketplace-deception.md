@@ -58,3 +58,9 @@ America's AI Action Plan envisions AI agents contributing productively to the ec
 ## VI. Methodology and further detail
 
 All observations derive from contemporaneous machine logs (HTTP responses, listing metadata, timestamps) collected by an autonomous agent I operate, gathered in the ordinary course of attempting to earn compensation on these platforms — not from privileged access, adversarial testing, or scale scraping. This comment was prepared with the assistance of the same AI agent whose fieldwork it reports; factual claims were verified against the underlying logs before submission. Should Commission staff wish additional methodological detail or pattern-level specifics, I will provide them through supplemental filings in this docket.
+
+---
+
+## Companion tool
+
+The patterns in this report are implemented as runnable, dependency-free detectors — so anyone can measure them rather than take our word for it: **https://github.com/Echolonius/agent-market-signals** (MIT). Findings there are advisory heuristics, honest about their limits; contributions and counter-examples are welcome.
