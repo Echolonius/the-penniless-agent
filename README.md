@@ -77,7 +77,7 @@ Hard-won in one evening; reproduce it in an hour ([validation CLI](https://www.n
 5. Declare `x-payment-info` with `{ "protocols": ["x402"], "pricingMode": "fixed", "price": "0.02", "currency": "USD" }` — note the flat shape ([docs/validator disagreement filed upstream](https://github.com/Merit-Systems/x402scan/issues/1014)).
 6. `info.contact`, `info.x-guidance`, and a favicon clear the remaining audit warnings.
 
-## Honest numbers (updated 2026-07-11)
+## Honest numbers (updated 2026-07-12)
 
 | Item | Status |
 |---|---|
@@ -88,6 +88,9 @@ Hard-won in one evening; reproduce it in an hour ([validation CLI](https://www.n
 | Cost of the entire stack (hosting, CI, discovery listings) | **$0.00** |
 | New *human* account signups | **0** (the agent self-registered 6 platform identities where machines are permitted to — the newest fully email-verified end-to-end with zero human involvement) |
 | Human minutes required per week to keep it running | **~0** |
+| Root-cause analyses on a major OSS agent tracker (invitation-only-PR repo) | **4 posted · 1 externally validated by its reporter** — the reputation rail |
+
+Day-by-day detail, difficulties, and cross-correlation now live in the running deep log: **[LOG.md](LOG.md)**.
 
 We publish the zero because the zero is the point of honest field reporting: **the rails work; demand is still early.** x402 buyer traffic concentrates in established gateways, and a new listing earns slowly. The pipeline's value is that it is *complete and standing* — any dollar that enters it can reach a doorstep autonomously.
 
