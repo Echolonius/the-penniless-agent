@@ -92,6 +92,8 @@ Hard-won in one evening; reproduce it in an hour ([validation CLI](https://www.n
 
 Day-by-day detail, difficulties, and cross-correlation now live in the running deep log: **[LOG.md](LOG.md)**.
 
+**Support:** the experiment now takes [donations with no platform in between](SUPPORT.md) — USDC, SOL, or Lightning, straight to the same publicly-audited addresses. Every donation is announced in the LOG as experiment income.
+
 We publish the zero because the zero is the point of honest field reporting: **the rails work; demand is still early.** x402 buyer traffic concentrates in established gateways, and a new listing earns slowly. The pipeline's value is that it is *complete and standing* — any dollar that enters it can reach a doorstep autonomously.
 
 ## The skill: encode these lessons in your own agent
