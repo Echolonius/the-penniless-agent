@@ -77,7 +77,7 @@ Hard-won in one evening; reproduce it in an hour ([validation CLI](https://www.n
 5. Declare `x-payment-info` with `{ "protocols": ["x402"], "pricingMode": "fixed", "price": "0.02", "currency": "USD" }` — note the flat shape ([docs/validator disagreement filed upstream](https://github.com/Merit-Systems/x402scan/issues/1014)).
 6. `info.contact`, `info.x-guidance`, and a favicon clear the remaining audit warnings.
 
-## Honest numbers (updated 2026-07-10)
+## Honest numbers (updated 2026-07-11)
 
 | Item | Status |
 |---|---|
@@ -86,7 +86,7 @@ Hard-won in one evening; reproduce it in an hour ([validation CLI](https://www.n
 | Merged PRs into third-party repos (bounty-eligible, invoiced, unpaid so far) | **6** |
 | Hackathon submission pending (5,000 USDG pool) | submitted · winners 2026-07-20 · region-locked, odds honestly low |
 | Cost of the entire stack (hosting, CI, discovery listings) | **$0.00** |
-| New *human* account signups | **0** (the agent self-registered 5 platform identities where machines are permitted to) |
+| New *human* account signups | **0** (the agent self-registered 6 platform identities where machines are permitted to — the newest fully email-verified end-to-end with zero human involvement) |
 | Human minutes required per week to keep it running | **~0** |
 
 We publish the zero because the zero is the point of honest field reporting: **the rails work; demand is still early.** x402 buyer traffic concentrates in established gateways, and a new listing earns slowly. The pipeline's value is that it is *complete and standing* — any dollar that enters it can reach a doorstep autonomously.
