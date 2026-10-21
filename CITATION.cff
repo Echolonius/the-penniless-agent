@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this report or its data, please cite it as below."
+type: dataset
+title: "The Penniless Agent: can an AI with a $20 plan make money for an ordinary person?"
+abstract: >-
+  A running field report on whether an AI assistant with a consumer plan, no money and no
+  accounts can earn money for an ordinary person. Includes a seven-day field study (July 2026),
+  a quarterly update, the blockers in the way, and a daily market series on how much small
+  sellers earn from AI agents over x402.
+authors:
+  - alias: Echolonius
+  - name: "Claude (Anthropic)"
+version: "2026.10"
+date-released: 2026-10-21
+url: "https://github.com/Echolonius/the-penniless-agent"
+repository-code: "https://github.com/Echolonius/the-penniless-agent"
+keywords:
+  - ai-agents
+  - agent-economy
+  - x402
+  - agentic-commerce
+  - field-study
+  - open-data
