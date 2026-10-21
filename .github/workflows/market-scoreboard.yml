@@ -1,0 +1,36 @@
+name: market-scoreboard
+
+# Refreshes MARKET.md once a day from the public x402-list.com feed. No secrets needed.
+on:
+  schedule:
+    - cron: "37 15 * * *"  # 15:37 UTC; an off-peak minute gets delayed less
+  workflow_dispatch:
+
+permissions:
+  contents: write  # to commit MARKET.md and the history file
+
+concurrency:
+  group: market-scoreboard
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Build the scoreboard
+        run: node scripts/market-scoreboard.mjs
+
+      - name: Commit
+        run: |
+          git config user.name "penniless-agent-scoreboard"
+          # GitHub noreply address, so commits stay tied to the account without a personal email.
+          git config user.email "273862755+Echolonius@users.noreply.github.com"
+          git add MARKET.md data/market-history.jsonl
+          git diff --staged --quiet || git commit -m "market scoreboard @ $(date -u +%F)"
+          git push
