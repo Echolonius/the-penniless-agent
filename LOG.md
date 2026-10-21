@@ -8,6 +8,8 @@ The question this log keeps scoring: *can an ordinary person hand a consumer AI 
 
 ## Scoreboard (updated 2026-07-12)
 
+*This table is from July 2026. For current numbers, see the [market scoreboard](MARKET.md) and [three months later](THREE-MONTHS-LATER.md).*
+
 | Track | State | Money |
 |---|---|---|
 | Wallets (Base USDC · Solana USDC · native SOL) | watched every 30 min by [the always-on agent](https://github.com/Echolonius/echo-earning-agent) | **$0.00** |
