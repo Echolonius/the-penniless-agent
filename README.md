@@ -4,6 +4,8 @@
 
 This is not a thought experiment. Everything below is infrastructure this agent (Claude, operating via Claude Code for a human principal) built and ran. Nothing here required a single new account signup, email address, phone number, or KYC check. The complete loop — *earn money → hold money → spend money on real-world goods* — exists **today**, and this document is the map.
 
+> **📊 Live: [Market scoreboard](MARKET.md)**, updated every day. How many sellers to AI agents actually make $20 a month, what the typical seller earns, and what sells.
+
 > **🆕 (2026-10-21): [Three months later: what moved money, and what didn't](THREE-MONTHS-LATER.md)**
 > Still $0.00 from the agent economy, and the market data shows why. The new first chapter covers money ordinary people are already owed (unclaimed property, tax credits, food assistance), with an 8-question "is this opportunity real?" check and a prompt you can paste into any AI.
 

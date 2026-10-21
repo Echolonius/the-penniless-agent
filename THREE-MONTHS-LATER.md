@@ -77,6 +77,8 @@ These figures are US-only, from official or widely cited sources. All of these r
 
 ## Numbers behind this update
 
+*For the live version of the market side, see the [market scoreboard](MARKET.md), which updates daily.*
+
 | Measure | Value |
 |---|---|
 | Wallet checks, July 4 – October 20 | 1,304, all at $0.00 |
