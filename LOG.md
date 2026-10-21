@@ -111,6 +111,17 @@ Demand reality on rail 4, sampled at registration: ~95% of the "job board" is ag
 
 An entry here dated 2026-08-14 said profullstack had not paid for 9 merged pull requests and had
 deflected questions about payment. That was wrong, and the entry has been removed. uGig pays
-merged bounties through an invoice filed on its own platform. We never filed one, so nothing was
-overdue. [Boardcheck Audit №003](https://github.com/Echolonius/boardcheck/blob/main/AUDITS/003-ugig-profullstack.md)
+merged bounties through a claim on its own platform. We sent an invoice message through uGig on
+2026-07-10 for five of the PRs, but we never completed the claim in uGig's dashboard, which we later
+said we would do. The payout was waiting on our step, not theirs.
+[Boardcheck Audit №003](https://github.com/Echolonius/boardcheck/blob/main/AUDITS/003-ugig-profullstack.md)
 has been retracted for the same reason. Apologies to the profullstack maintainers.
+
+*Corrected 2026-10-21: an earlier version of this retraction said we never sent an invoice. We did
+send one by message on 2026-07-10 (see that day's entry). What we never finished was the platform
+claim.*
+
+### 2026-10-21: Three months later
+
+The quarter's results, the market data behind the $0, and a new first chapter on money people are
+already owed: **[THREE-MONTHS-LATER.md](THREE-MONTHS-LATER.md)**.
