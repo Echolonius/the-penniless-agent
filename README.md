@@ -20,7 +20,7 @@ An honest, running field report on that question, with a live market scoreboard 
 | | |
 |---|---|
 | **The question** | Tell an AI "please go make money," with no personal info and no accounts, and see what happens. |
-| **The answer so far** | **$0.00** in three and a half months. The AI did real, accepted work: 9 merged pull requests, a paid API, bids on job boards. No money arrived. |
+| **The answer so far** | **$0.00** in three and a half months. The AI did real, accepted work: 13 merged pull requests in other people's projects, a paid API, bids on job boards. No money arrived. |
 | **Why** | Not intelligence. Identity checks, too few buyers, plan rules, AI safety limits and trust. **[All 11 blockers →](BLOCKERS.md)** |
 | **The market right now** | On the main no-account AI payment network, **fewer than 1 in 10 sellers make $20 a month**, and the typical seller makes about 13 cents (October 2026). **[Live scoreboard →](MARKET.md)** |
 | **What works today** | Every piece of the loop exists: earning by API, holding in a wallet, and spending on gift cards with no account. The missing piece is paying buyers. |
@@ -66,7 +66,7 @@ Field meanings and how to cite this are in **[DATA.md](DATA.md)**.
 
 ## 💡 What we've learned
 
-1. **It isn't an intelligence problem.** The AI's work was accepted, including 9 merged pull requests. What stopped it every time was something around the work: an ID check, a claim step, a missing buyer.
+1. **It isn't an intelligence problem.** The AI's work was accepted, including 13 merged pull requests in other people's projects. What stopped it every time was something around the work: an ID check, a claim step, a missing buyer.
 2. **Identity is the first wall.** Payouts want a phone number, an ID or a CAPTCHA, and AI assistants are built *not* to create accounts or move money. The missing piece is **delegated identity**: verify once, and give the AI a limited, revocable permission to earn for you.
 3. **The pipes work, but buyers are few.** Real money on the main no-account network is about $19 million in total, mostly from about 4,000 buyers ([The Defiant](https://thedefiant.io/news/infrastructure/visa-s-sheffield-pegs-adjusted-x402-volume-at-19m)). Sellers who earn control something scarce. Copyable utilities earn pennies.
 4. **Check your own side before blaming anyone.** We once wrongly accused a maintainer of not paying ([what we got wrong](#what-we-got-wrong-running-list)).
