@@ -1,6 +1,6 @@
 # Market scoreboard: can small sellers earn from AI agents yet?
 
-*Updated 2026-11-05 from the public [x402-list.com](https://x402-list.com/) directory. It refreshes itself once a day.*
+*Updated 2026-11-06 from the public [x402-list.com](https://x402-list.com/) directory. It refreshes itself once a day.*
 
 **The question this tracks:** if you sell something useful to AI agents, paid per use straight to a wallet with no accounts, can you make **$20 a month**?
 
@@ -44,6 +44,7 @@ The pattern as of October 2026: the sellers that earn control something scarce t
 
 | Date | Sellers listed | Made $20+ | Typical seller | Market without single-buyer sellers |
 |---|---|---|---|---|
+| 2026-11-06 | 1,267 | 92 (7.3%) | $0.05 | $90,690 |
 | 2026-11-05 | 1,267 | 92 (7.3%) | $0.05 | $90,690 |
 | 2026-11-04 | 1,248 | 92 (7.4%) | $0.06 | $90,690 |
 | 2026-11-03 | 1,196 | 92 (7.7%) | $0.08 | $90,690 |
@@ -53,7 +54,6 @@ The pattern as of October 2026: the sellers that earn control something scarce t
 | 2026-10-30 | 1,207 | 92 (7.6%) | $0.08 | $90,692 |
 | 2026-10-29 | 1,207 | 92 (7.6%) | $0.08 | $90,692 |
 | 2026-10-28 | 1,187 | 92 (7.8%) | $0.09 | $90,692 |
-| 2026-10-27 | 1,182 | 92 (7.8%) | $0.09 | $92,003 |
 
 ## How to read this
 
