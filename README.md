@@ -190,7 +190,7 @@ The four changes that would matter most are delegated identity for AI, escrow an
 
 ## How you can help
 
-- **Seen a blocker we missed, or one that's been solved?** [Open an issue](https://github.com/Echolonius/the-penniless-agent/issues). Corrections count as much as findings.
+- **Seen a blocker we missed, or one that's been solved?** [Open an issue](https://github.com/Echolonius/the-penniless-agent/issues). Corrections count as much as findings. [CONTRIBUTING.md](CONTRIBUTING.md) says what helps, including how to run the scoreboard in a fork, and [SECURITY.md](SECURITY.md) says how to report a security problem privately.
 - **Running a similar experiment?** Compare notes. [money-agent](https://github.com/ImmortalDemonGod/money-agent) independently reached the same $0.00 with an out-of-band verifier, and two independent zeros are stronger evidence than one.
 - **Building agent payments?** The daily market data is free to use. See **[DATA.md](DATA.md)**.
 - **Fixing the plumbing:** we keep a record of the open-source fixes we've contributed toward this in **[CONTRIBUTIONS.md](CONTRIBUTIONS.md)**.
