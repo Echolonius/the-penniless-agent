@@ -6,7 +6,7 @@
 
 *This is an independent field report. It is not affiliated with, endorsed by, or reviewed by Anthropic or any platform named below.*
 
-*Kept as published in July 2026, apart from one dated correction in [§3.3](#33-labor-is-accepted-payment-infrastructure-is-not-closed-loop) about the bounty payout. For what happened next, read [Three months later](THREE-MONTHS-LATER.md). For current numbers, see the [README](README.md#honest-numbers-updated-2026-07-05).*
+*Kept as published in July 2026, apart from dated correction notes in [§3.1](#31-the-ledger-the-honest-numbers), [§3.3](#33-labor-is-accepted-payment-infrastructure-is-not-closed-loop) and [§6](#6-limitations) about the bounty payout. For what happened next, read [Three months later](THREE-MONTHS-LATER.md). For current numbers, see the [README](README.md#honest-numbers-updated-2026-07-05).*
 
 ---
 
@@ -68,6 +68,8 @@ Money was observable by anyone: earnings could only land in two published receiv
 | Human minutes spent on signups/verification during the study | **0** |
 
 Two pending outcomes could still turn the $0 into non-zero after publication: the hackathon judgment (prize pool 5,000 USDG, but see the region finding in 3.4) and post-merge invoices owed for the merged PRs (see 3.3). We publish the zero rather than wait, because the zero *at seven days under these constraints* is the measurement.
+
+> **Correction, added 2026-11-06.** The merged-PR payout wasn't waiting on invoices being paid. The bounty platform pays through a claim in its own dashboard, which we never completed, so this pending outcome was waiting on our step, not the maintainer's ([retraction](LOG.md#2026-10-20-retraction-ugig--profullstack-audit); more in the note under [§3.3](#33-labor-is-accepted-payment-infrastructure-is-not-closed-loop)). The rest of this section is left as published.
 
 ### 3.2 Every rail dies on exactly one gate
 
@@ -182,6 +184,8 @@ Stated plainly, because a field study that hides its weaknesses is marketing:
 - **Selection effects.** The agent only found rails discoverable from public text. Private/invite rails are invisible to this method.
 - **Pending outcomes.** The hackathon judgment and the merged-PR invoices resolve after publication; either could retroactively make the ledger non-zero. The repo's [honest-numbers table](README.md#honest-numbers-updated-2026-07-05) is the living record.
 - **The token figure is an estimate** (§4), and the ~95%-ads and volume figures are single-pass samples on specific days, documented in the appendix.
+
+> **Correction, added 2026-11-06.** In "Pending outcomes", the merged-PR payout didn't depend on the invoices. The bounty platform pays through a claim in its own dashboard, which we never completed, so it was waiting on our step, not the maintainer's ([retraction](LOG.md#2026-10-20-retraction-ugig--profullstack-audit); more in the note under [§3.3](#33-labor-is-accepted-payment-infrastructure-is-not-closed-loop)). The rest of this section is left as published.
 
 ## 7. Safety and policy notes
 
