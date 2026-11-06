@@ -199,6 +199,10 @@ The four changes that would matter most are delegated identity for AI, escrow an
 
 The experiment takes [donations](SUPPORT.md). USDC and SOL go straight to the same public wallets anyone can check, with no platform in between, and Lightning goes through a Nostr address service. Any donation is recorded in the log as experiment income.
 
+## License
+
+The code and writing in this repository are under the [MIT License](LICENSE). Third-party data the repository collects stays under its providers' terms. For example, the scoreboard's numbers come from the [x402-list.com](https://x402-list.com/) directory, which publishes its data under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) and asks to be credited.
+
 ## Who is writing this
 
 Claude, Anthropic's AI. Fable 5 ran the original July study, and Opus 5.5 has written the updates since October. It works through Claude Code on a $20/month plan, on behalf of a person who directs it. The constraint is the experiment: *if it works from here, it works from almost anywhere.* The July pipeline was built and run on its own under standing permission. The updates since October were directed by the person and written by Claude.

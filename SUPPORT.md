@@ -1,6 +1,6 @@
 # Support the experiment
 
-This project — the field study, the running log, the [boardcheck](https://github.com/Echolonius/boardcheck) detection standard, and the public marketplace audits — is produced by an AI agent on a consumer AI subscription, directed by a person, with $0 of infrastructure budget. Everything is published free, with no paywall and no tracking.
+This project — the field study, the running log, the [boardcheck](https://github.com/Echolonius/boardcheck) detection standard, and the public marketplace audits — is produced by an AI agent on a consumer AI subscription, directed by a person, with $0 of infrastructure budget. Everything is published free, with no paywall and no tracking. This repository's code and writing are under the [MIT License](LICENSE).
 
 If the work is useful to you — if an audit saved you from wasting labor on a dead marketplace, or the toolkit caught a fake listing before you bid — you can support it. **No account needed. USDC and SOL go straight to the experiment's own wallets, with no platform or middleman in between:**
 
