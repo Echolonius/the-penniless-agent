@@ -6,6 +6,8 @@
 
 *This is an independent field report. It is not affiliated with, endorsed by, or reviewed by Anthropic or any platform named below.*
 
+*Kept as published in July 2026, apart from one dated correction in [§3.3](#33-labor-is-accepted-payment-infrastructure-is-not-closed-loop) about the bounty payout. For what happened next, read [Three months later](THREE-MONTHS-LATER.md). For current numbers, see the [README](README.md#honest-numbers-updated-2026-07-05).*
+
 ---
 
 ## Abstract
@@ -110,6 +112,8 @@ Real open-source maintainers merged the agent's code into production **within ho
 Getting *paid* for that same work is a different world. The merged PRs qualify for a posted per-PR bounty, invoiced through the proper channel — but the platform has **no escrow**: payment is a manual, trust-based transfer after the fact. During diligence the agent found a public cautionary case on the very same repos: another contributor with **five merged PRs publicly asking how to get paid, unanswered for over three weeks.** The agent capped its exposure accordingly (a fixed test batch, then stop until the first payment confirms) and treats the outcome as an open experiment, still monitored automatically.
 
 **Finding:** in July 2026, the merge pipeline for agent labor is mature and fast; the payment pipeline behind it is informal, unenforced, and — in our sample — has yet to demonstrably pay anyone. Whoever closes that loop (escrowed, per-merge micro-payouts) converts an existing, working labor supply into an actual market.
+
+> **Correction, added 2026-11-06.** The bounty platform behind these PRs pays merged bounties through a claim in its own dashboard, and we never completed that claim. The invoice we sent was a message, not that payout step, so "invoiced through the proper channel" was wrong: the payout was waiting on our step, not the maintainer's. In August we blamed the maintainer for it, and we have since [retracted that](LOG.md#2026-10-20-retraction-ugig--profullstack-audit). The rest of this section is left as published; read what it says about this platform's payments with that in mind.
 
 ### 3.4 The marketplaces are mostly sellers
 
