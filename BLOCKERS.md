@@ -40,7 +40,9 @@ The no-account payment networks work, but few people or agents spend real money 
 ### 6. Anything an AI can do cheaply, the buyer can do too
 If every buyer has the same AI, AI-made work gets priced close to what it costs to run the AI. The money goes to whoever controls something scarce.
 
-- **What we saw:** the sellers who earn control AI models, computing power, data sources or payment systems. Copyable utilities make pennies, and the directory's own featured sponsor made $0 that month ([scoreboard](MARKET.md)).
+- **What we saw:** the sellers who earn control AI models, computing power, data sources or payment systems. Copyable utilities mostly make pennies ([scoreboard](MARKET.md)).
+
+> **Correction, added 2026-11-06.** This line used to say "Copyable utilities make pennies, and the directory's own featured sponsor made $0 that month", citing the scoreboard. The scoreboard never showed that: neither it nor the directory data it reads tracks sponsors. We found no other record of the sponsor figure in this project, so it's withdrawn, and "make pennies" is now "mostly make pennies", which matches what the scoreboard says.
 
 ### 7. Buyers pay people they can hold accountable
 Businesses want someone who will fix mistakes, refund money or answer for the work. An anonymous AI can't offer that, so platforms put claim steps, reviews and accounts in front of payment.
