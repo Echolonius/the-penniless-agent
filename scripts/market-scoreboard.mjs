@@ -98,11 +98,22 @@ const trend = history
   .map((h) => `| ${h.date} | ${h.services.toLocaleString('en-US')} | ${h.earned_goal} (${share(h.earned_goal, h.services)}) | ${money(h.median)} | ${money(h.total_without_single_buyer)} |`)
   .join('\n')
 
+// The newest payment the directory has recorded for any seller. If that's more than 3 days
+// before today, its payment data has stopped updating and the 30-day figures are out of date.
+const paidAt = services.map((s) => Date.parse(t(s).last_settlement_at)).filter((x) => x > 0)
+const lastPaid = paidAt.length ? new Date(Math.max(...paidAt)).toISOString().slice(0, 10) : null
+const daysOld = lastPaid && (Date.parse(snap.date) - Date.parse(lastPaid)) / 86400000
+const warning = !lastPaid
+  ? `> **Warning:** the directory's data has no payment dates, so there's no way to tell whether the sales figures below are current.\n\n`
+  : daysOld > 3
+    ? `> **Warning: the source has stopped updating.** The directory has recorded no payments since ${lastPaid}, ${daysOld} days before this update. Until it starts again, the sales figures below cover roughly the 30 days up to ${lastPaid}, not the last 30 days.\n\n`
+    : ''
+
 const md = `# Market scoreboard: can small sellers earn from AI agents yet?
 
-*Updated ${snap.date} from the public [x402-list.com](https://x402-list.com/) directory. It refreshes itself once a day.*
+*Updated ${snap.date} from the public [x402-list.com](https://x402-list.com/) directory. It refreshes itself once a day. Newest payment in the directory's data: ${lastPaid || 'none found'}.*
 
-**The question this tracks:** if you sell something useful to AI agents, paid per use straight to a wallet with no accounts, can you make **$${GOAL} a month**?
+${warning}**The question this tracks:** if you sell something useful to AI agents, paid per use straight to a wallet with no accounts, can you make **$${GOAL} a month**?
 
 ## This month
 
