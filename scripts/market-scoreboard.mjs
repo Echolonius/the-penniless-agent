@@ -111,7 +111,7 @@ const warning = !lastPaid
 
 const md = `# Market scoreboard: can small sellers earn from AI agents yet?
 
-*Updated ${snap.date} from the public [x402-list.com](https://x402-list.com/) directory. It refreshes itself once a day. Newest payment in the directory's data: ${lastPaid || 'none found'}.*
+*Updated ${snap.date} from the public [x402-list.com](https://x402-list.com/) directory. It refreshes itself once a day. Newest payment in the directory's data: ${lastPaid || 'none found'}. Data: [x402-list.com](https://x402-list.com/) ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).*
 
 ${warning}**The question this tracks:** if you sell something useful to AI agents, paid per use straight to a wallet with no accounts, can you make **$${GOAL} a month**?
 
