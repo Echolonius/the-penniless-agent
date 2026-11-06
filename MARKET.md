@@ -1,6 +1,8 @@
 # Market scoreboard: can small sellers earn from AI agents yet?
 
-*Updated 2026-11-06 from the public [x402-list.com](https://x402-list.com/) directory. It refreshes itself once a day.*
+*Updated 2026-11-06 from the public [x402-list.com](https://x402-list.com/) directory. It refreshes itself once a day. Newest payment in the directory's data: 2026-10-28.*
+
+> **Warning: the source has stopped updating.** The directory has recorded no payments since 2026-10-28, 9 days before this update. Until it starts again, the sales figures below cover roughly the 30 days up to 2026-10-28, not the last 30 days.
 
 **The question this tracks:** if you sell something useful to AI agents, paid per use straight to a wallet with no accounts, can you make **$20 a month**?
 
