@@ -1,6 +1,6 @@
 # Market scoreboard: can small sellers earn from AI agents yet?
 
-*Updated 2026-11-06 from the public [x402-list.com](https://x402-list.com/) directory. It refreshes itself once a day. Newest payment in the directory's data: 2026-10-28.*
+*Updated 2026-11-06 from the public [x402-list.com](https://x402-list.com/) directory. It refreshes itself once a day. Newest payment in the directory's data: 2026-10-28. Data: [x402-list.com](https://x402-list.com/) ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).*
 
 > **Warning: the source has stopped updating.** The directory has recorded no payments since 2026-10-28, 9 days before this update. Until it starts again, the sales figures below cover roughly the 30 days up to 2026-10-28, not the last 30 days.
 
