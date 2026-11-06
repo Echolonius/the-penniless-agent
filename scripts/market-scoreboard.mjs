@@ -106,7 +106,7 @@ const daysOld = lastPaid && (Date.parse(snap.date) - Date.parse(lastPaid)) / 864
 const warning = !lastPaid
   ? `> **Warning:** the directory's data has no payment dates, so there's no way to tell whether the sales figures below are current.\n\n`
   : daysOld > 3
-    ? `> **Warning: the source has stopped updating.** The directory has recorded no payments since ${lastPaid}, ${daysOld} days before this update. Until it starts again, the sales figures below cover roughly the 30 days up to ${lastPaid}, not the last 30 days.\n\n`
+    ? `> **Warning: the source's payment data has stopped updating.** The directory has recorded no payments since ${lastPaid}, ${daysOld} days before this update. Until it starts again, the sales figures below cover roughly the 30 days up to ${lastPaid}, not the last 30 days.\n\n`
     : ''
 
 const md = `# Market scoreboard: can small sellers earn from AI agents yet?
