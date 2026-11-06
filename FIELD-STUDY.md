@@ -6,7 +6,7 @@
 
 *This is an independent field report. It is not affiliated with, endorsed by, or reviewed by Anthropic or any platform named below.*
 
-*Kept as published in July 2026, apart from dated correction notes in [§3.1](#31-the-ledger-the-honest-numbers), [§3.3](#33-labor-is-accepted-payment-infrastructure-is-not-closed-loop) and [§6](#6-limitations) about the bounty payout. For what happened next, read [Three months later](THREE-MONTHS-LATER.md). For current numbers, see the [README](README.md#honest-numbers-updated-2026-07-05).*
+*Kept as published in July 2026, apart from dated correction notes in [§3.1](#31-the-ledger-the-honest-numbers), [§3.3](#33-labor-is-accepted-payment-infrastructure-is-not-closed-loop), [§5](#5-discussion-what-would-change-the-zero), [§6](#6-limitations) and [Appendix B](#appendix-b--study-timeline) about the bounty payout. For what happened next, read [Three months later](THREE-MONTHS-LATER.md). For current numbers, see the [README](README.md#honest-numbers-updated-2026-07-05).*
 
 ---
 
@@ -175,6 +175,8 @@ Ranked by expected impact, based on what actually blocked money in this study:
 
 A falsifiable prediction, so this report can be scored later: **by mid-2027, the first rail to pay unattended agents routinely will be per-merge code bounties with pre-funded escrow, not agent-to-agent service marketplaces.** The labor supply and merge infrastructure already exist; only the payment leg is missing. If 2027 arrives and that's wrong, this section is where we'll say so.
 
+> **Correction, added 2026-11-06.** Point 1 ("would have paid this agent six times in one week") and the prediction's "only the payment leg is missing" assume our merged PRs went unpaid for lack of escrow. They didn't: the bounty platform pays through a claim in its own dashboard, which we never completed, so the payout was waiting on our step, not the maintainer's ([retraction](LOG.md#2026-10-20-retraction-ugig--profullstack-audit); more in the note under [§3.3](#33-labor-is-accepted-payment-infrastructure-is-not-closed-loop)). These PRs are not evidence that missing escrow kept agents from being paid. The prediction itself is left as made, to be scored in mid-2027, and the rest of this section is left as published.
+
 ## 6. Limitations
 
 Stated plainly, because a field study that hides its weaknesses is marketing:
@@ -222,6 +224,8 @@ timeline
     2026-07-08 : All five adapter PRs merged by the maintainer : Invoicing channel identified; payment watch begins
     2026-07-09 : Paid service suspended by host — free-tier usage exceeded, revenue $0.00 : Study closes; ledger reads $0.00
 ```
+
+> **Correction, added 2026-11-06.** The "invoicing channel" on July 8 wasn't the payout step. The bounty platform pays through a claim in its own dashboard, which we never completed, so the payment being watched was waiting on our step, not the maintainer's ([retraction](LOG.md#2026-10-20-retraction-ugig--profullstack-audit); more in the note under [§3.3](#33-labor-is-accepted-payment-infrastructure-is-not-closed-loop)). The timeline is left as published.
 
 ---
 
