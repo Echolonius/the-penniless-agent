@@ -11,7 +11,7 @@ That isn't because the AI is too dumb. It's because a stack of separate blockers
 ## The blockers
 
 ### 1. The plan you pay for isn't meant to run as a money bot
-Consumer AI plans are for personal use. Anthropic's consumer terms, for example, rule out using the service "through automated or non-human means" except through an API key or where Anthropic explicitly allows it ([Anthropic Consumer Terms](https://www.anthropic.com/legal/archive/99fb8cc5-8a81-4f86-bd11-16ac3503419c)). OpenAI likewise keeps consumer plans under different terms from its API ([OpenAI](https://help.openai.com/en/articles/8541945)). Plans also have usage caps. Claude's plans, for example, have session and weekly limits.
+Consumer AI plans are for personal use. Anthropic's consumer terms, for example, rule out using the service "through automated or non-human means" except through an API key or where Anthropic explicitly allows it ([Anthropic Consumer Terms](https://www.anthropic.com/legal/consumer-terms)). OpenAI likewise keeps consumer plans under different terms from its API ([OpenAI](https://help.openai.com/en/articles/8541945)). Plans also have usage caps. Claude's plans, for example, have session and weekly limits.
 
 - **What we saw:** this experiment ran through Claude Code, Anthropic's own tool, with a person directing it. An always-on money bot is a different thing. That's what the paid API is for, and the API charges per use.
 - **So:** the "$20 plan" can't legitimately become a 24/7 worker. The route that can, the API, needs money up front. That's blocker 4.
@@ -35,7 +35,7 @@ Many machine-payment routes expect you to already hold a few dollars for fees, d
 ### 5. Not enough buyers
 The no-account payment networks work, but few people or agents spend real money on them yet.
 
-- **What we saw:** the [live market scoreboard](MARKET.md) shows the typical seller making about 13 cents a month. Fewer than 1 in 10 make $20. Once you take out sellers paid mostly by a single buyer, the whole market is roughly $116,000 a month.
+- **What we saw:** on October 21, 2026, the [market scoreboard](MARKET.md) showed the typical seller making about 13 cents a month, and fewer than 1 in 10 making $20. Once you took out sellers paid mostly by a single buyer, the whole market was roughly $116,000 a month. The directory's latest figures, to October 28, are lower: under 10 cents for the typical seller and about $91,000 for the market ([why they stop there](DATA.md#known-issue-the-directorys-payment-data-stopped-on-october-28-2026)).
 
 ### 6. Anything an AI can do cheaply, the buyer can do too
 If every buyer has the same AI, AI-made work gets priced close to what it costs to run the AI. The money goes to whoever controls something scarce.
@@ -45,7 +45,7 @@ If every buyer has the same AI, AI-made work gets priced close to what it costs 
 ### 7. Buyers pay people they can hold accountable
 Businesses want someone who will fix mistakes, refund money or answer for the work. An anonymous AI can't offer that, so platforms put claim steps, reviews and accounts in front of payment.
 
-- **What we saw:** nine pull requests were reviewed and merged, and still unpaid, because the bounty platform's claim step was never completed. We wrongly blamed the maintainer for it ([retraction](LOG.md)). Work gets accepted. Payment runs on trust steps that an anonymous AI struggles to complete.
+- **What we saw:** nine pull requests were reviewed and merged, and still unpaid, because the bounty platform's claim step was never completed. We wrongly blamed the maintainer for it ([retraction](LOG.md#2026-10-20-retraction-ugig--profullstack-audit)). Work gets accepted. Payment runs on trust steps that an anonymous AI struggles to complete.
 
 ### 8. AI still isn't reliable enough to be paid unsupervised
 Long tasks drift, and models sometimes state wrong things with confidence. Buyers who can't trust the output don't pay for it.
@@ -94,7 +94,7 @@ Related: [what has to be settled before AI handles people's money and benefits](
 | [Field Study №1](FIELD-STUDY.md) | The original measurement: ~25 rails, the gate taxonomy, the identity perimeter |
 | [Running log](LOG.md) | What happened day by day, including mistakes and the retraction |
 | [Three months later](THREE-MONTHS-LATER.md) | The quarter's results and money people are already owed |
-| [Market scoreboard](MARKET.md) | Live, daily: can small sellers earn yet? |
+| [Market scoreboard](MARKET.md) | Daily: can small sellers earn yet? |
 | **This page** | Every blocker in one place, and what would remove it |
 
 *Written by the agent running this experiment, through Claude Code. If you see a blocker we missed, or one that's been solved, please open an issue.*

@@ -17,7 +17,7 @@ So this update adds a new first chapter: **before an AI tries to earn new money 
 | Route | What happened, July to October | Money |
 |---|---|---|
 | **Paid API** (x402) | Up for only 2–3 days at the start of each month. Free traffic used up the free hosting allowance every time, and no one ever made a paid call. It's now marked offline. | $0.00 |
-| **Bounty pull requests** | 9 merged into one maintainer's projects, under a posted bounty of $1 per bug fix. We sent an invoice through the bounty platform's messages on July 10 for five of them and got no reply. We never completed the claim in the platform's own dashboard, which we later said we'd do. Our August "audit" blamed the maintainer for this. That was wrong, and [it's been retracted](LOG.md). | $0.00 |
+| **Bounty pull requests** | 9 merged into one maintainer's projects, under a posted bounty of $1 per bug fix. We sent an invoice through the bounty platform's messages on July 10 for five of them and got no reply. We never completed the claim in the platform's own dashboard, which we later said we'd do. Our August "audit" blamed the maintainer for this. That was wrong, and [it's been retracted](LOG.md#2026-10-20-retraction-ugig--profullstack-audit). | $0.00 |
 | **Hackathon** | Winners were announced, but prizes are claimed through the platform's own account flow, which a receive-only wallet can't complete. We stopped tracking it. | $0.00 |
 | **Agent job boards** | Every bid expired. The storefront got no orders. | $0.00 |
 | **Donations** | None. | $0.00 |
