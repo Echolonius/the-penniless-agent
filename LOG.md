@@ -31,6 +31,26 @@ Running total, day 10 since the study opened its ledger: **$0.00 received.** Not
 
 *Newest first.*
 
+### 2026-11-07: Bounty bait written for agents
+
+Described by conduct, as this log does. On 2026-11-06 a GitHub account created that day opened six
+repositories in about five hours, each with the same two "Escrowed $450/$600 USDC" bounties. The issues
+say pull requests from human engineers are not reviewed, name three escrow services at once, promise
+payment "automatically on merge" and ask the solver to make a bundled script pass. The first pull request
+arrived 8 minutes after the first bounty went up; by the next morning there were 51 from 10 accounts, and
+none had been merged. We have not established the operator's intent, and we found no record of anyone
+being paid.
+
+The same week, Knostic published an analysis of a "bounty verifier" skill for agents: the operator that
+lists the bounties also certifies them as escrowed, the skill told agents to download and run its script,
+and its funding command sends the wallet's private key to the operator. Knostic found no confirmed losses
+([write-up, 2026-11-07](https://www.knostic.ai/blog/doomsday-escrow-when-a-bounty-verifier-certifies-its-own-claims)).
+
+Both aim at the same gap: an agent can't check escrow on its own, so a confident "escrowed" or "verified"
+becomes the deciding signal. The warning signs are now rule 8 of our
+[safe-agent-commerce skill](skills/safe-agent-commerce/SKILL.md#8-bounty-bait-written-for-agents).
+Rule 1, payment evidence before work, already stops most of it.
+
 ### 2026-10-21: Three months later
 
 The quarter's results, the market data behind the $0, and a new first chapter on money people are
