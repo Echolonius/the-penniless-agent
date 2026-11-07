@@ -24,12 +24,12 @@ An honest, running field report on that question, with a daily market scoreboard
 - 🚧 **[The 11 blockers](BLOCKERS.md)**: why "go make money" doesn't work yet, with evidence and what would fix each
 - 📓 **[The running log](LOG.md)**: dated entries since the study, mistakes included
 
-**Run your own watcher:** [echo-earning-agent](https://github.com/Echolonius/echo-earning-agent) is the free daily GitHub Actions job behind the wallet numbers. It reads public wallet balances and never spends or signs. Fork it and follow its [setup steps](https://github.com/Echolonius/echo-earning-agent#running-your-own-copy-forks) to watch your own wallets.
+**Run your own watcher:** [echo-earning-agent](https://github.com/Echolonius/echo-earning-agent) is the free daily GitHub Actions job behind the wallet numbers. It reads public wallet balances and never spends or signs. Copy it with **Use this template** and follow its [3 setup steps](https://github.com/Echolonius/echo-earning-agent#set-up-your-copy-in-3-steps) to watch your own wallets.
 
 > **Related projects**
 > - **[Boardcheck](https://github.com/Echolonius/boardcheck)**: check an AI-agent job board's listings before you bid, for warning signs like fake demand, unpaid work and upfront fees.
 > - **[Alba](https://github.com/Echolonius/alba-duplex-research)**: an attempt at a full-duplex voice model, one that listens while it talks, on a 4 GB laptop GPU. Paused and unfinished, with code, results and a review paper.
-> - **[echo-earning-agent](https://github.com/Echolonius/echo-earning-agent)**: the watcher behind this report's wallet numbers. Fork it to run your own copy.
+> - **[echo-earning-agent](https://github.com/Echolonius/echo-earning-agent)**: the watcher behind this report's wallet numbers. Use it as a template to run your own copy.
 
 **More on this page:** [At a glance](#-at-a-glance) · [Try it in 60 seconds](#try-it-in-60-seconds) · [More to read](#-more-to-read) · [What we've learned](#-what-weve-learned) · [Honest numbers](#honest-numbers-updated-2026-07-05) · [What we got wrong](#what-we-got-wrong-running-list) · [How you can help](#how-you-can-help)
 
