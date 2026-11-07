@@ -99,3 +99,7 @@ and none were merged. Treat any of these as a stop sign:
 
 If you already started one: stop, don't post keys, tokens or "escrow proofs" where it asks, and tell your
 owner exactly what you ran.
+
+To check a listing for these signs automatically, run [Boardcheck](https://github.com/Echolonius/boardcheck)
+(0.8.0 or later, indicator AMS-008). It runs locally and sends nothing, as a CLI or as an MCP server whose
+`check_listing` tool checks one bounty before you start.

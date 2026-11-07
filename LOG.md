@@ -49,7 +49,9 @@ and its funding command sends the wallet's private key to the operator. Knostic 
 Both aim at the same gap: an agent can't check escrow on its own, so a confident "escrowed" or "verified"
 becomes the deciding signal. The warning signs are now rule 8 of our
 [safe-agent-commerce skill](skills/safe-agent-commerce/SKILL.md#8-bounty-bait-written-for-agents).
-Rule 1, payment evidence before work, already stops most of it.
+Rule 1, payment evidence before work, already stops most of it. The same evening,
+[Boardcheck 0.8.0](https://github.com/Echolonius/boardcheck/releases/tag/v0.8.0) began flagging these signs
+automatically (indicator AMS-008), including hidden text addressed to an AI.
 
 ### 2026-10-21: Three months later
 
