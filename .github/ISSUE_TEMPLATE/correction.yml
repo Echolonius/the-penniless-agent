@@ -1,0 +1,26 @@
+name: Correction
+description: A number, claim or link in the report is wrong or out of date
+labels: ["correction"]
+body:
+  - type: input
+    id: where
+    attributes:
+      label: Where
+      description: The file and section, or a link to the line.
+      placeholder: "README.md, Honest numbers"
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What's wrong
+      description: What it says now, and what it should say.
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source
+      description: A link that shows the right answer.
+    validations:
+      required: true

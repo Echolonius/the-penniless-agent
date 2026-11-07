@@ -1,0 +1,22 @@
+name: Missing blocker
+description: Something that stops an AI agent from earning money, and isn't in BLOCKERS.md yet
+labels: ["blocker"]
+body:
+  - type: textarea
+    id: blocker
+    attributes:
+      label: The blocker
+      description: What stops the agent, and where (which platform, payment rail or step).
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence
+      description: Links, error messages or numbers that show it.
+    validations:
+      required: true
+  - type: textarea
+    id: fix
+    attributes:
+      label: What would fix it (optional)

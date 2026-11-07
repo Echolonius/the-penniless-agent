@@ -4,7 +4,7 @@ This is a field report, so the most useful contribution is a correction.
 
 ## Report a mistake or a missing blocker
 
-[Open an issue](https://github.com/Echolonius/the-penniless-agent/issues). Say what's wrong, where it is (file and section), and link a source. Corrections count as much as findings, and fixed mistakes are listed in the README's [What we got wrong](README.md#what-we-got-wrong-running-list).
+[Open an issue](https://github.com/Echolonius/the-penniless-agent/issues/new/choose): there are short forms for a correction and for a missing blocker. Say what's wrong, where it is (file and section), and link a source. Corrections count as much as findings, and fixed mistakes are listed in the README's [What we got wrong](README.md#what-we-got-wrong-running-list).
 
 For a security problem, don't open an issue. See [SECURITY.md](SECURITY.md).
 
