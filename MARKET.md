@@ -1,16 +1,16 @@
 # Market scoreboard: can small sellers earn from AI agents yet?
 
-*Updated 2026-11-20 from the public [x402-list.com](https://x402-list.com/) directory. It refreshes itself once a day. Newest payment in the directory's data: 2026-10-28. Data: [x402-list.com](https://x402-list.com/) ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).*
+*Updated 2026-11-21 from the public [x402-list.com](https://x402-list.com/) directory. It refreshes itself once a day. Newest payment in the directory's data: 2026-10-28. Data: [x402-list.com](https://x402-list.com/) ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).*
 
-> **Warning: the source's payment data has stopped updating.** The directory has recorded no payments since 2026-10-28, 23 days before this update. Until it starts again, the sales figures below cover roughly the 30 days up to 2026-10-28, not the last 30 days.
+> **Warning: the source's payment data has stopped updating.** The directory has recorded no payments since 2026-10-28, 24 days before this update. Until it starts again, the sales figures below cover roughly the 30 days up to 2026-10-28, not the last 30 days.
 
 **The question this tracks:** if you sell something useful to AI agents, paid per use straight to a wallet with no accounts, can you make **$20 a month**?
 
 ## This month
 
-- **90 of 1,383 sellers (6.5%) made $20 or more** in the last 30 days.
-- The typical seller made **$0.01**. The top quarter made $0.88 or more, and the top tenth $9 or more.
-- 732 sellers (52.9%) made at least one sale. 382 had 10 or more different buyers.
+- **90 of 1,398 sellers (6.4%) made $20 or more** in the last 30 days.
+- The typical seller made **$0.01**. The top quarter made $0.84 or more, and the top tenth $9 or more.
+- 730 sellers (52.2%) made at least one sale. 381 had 10 or more different buyers.
 - All listed sellers together took in **$288,646**. Of that, $234,551 (81.3%) went to 56 sellers that are paid almost entirely by one buyer. The biggest single seller, Laso Finance, took 79.4%. Without the single-buyer sellers, the market is **$54,095** a month.
 - **This experiment's own earnings: $0.00** ([why](THREE-MONTHS-LATER.md)).
 
@@ -18,14 +18,14 @@
 
 | Category | Sellers | Made a sale | Made $20+ | Paid in 30 days |
 |---|---|---|---|---|
-| Finance | 162 | 55.6% | 7 | $231,657 |
-| AI | 227 | 51.1% | 24 | $30,574 |
-| Other | 74 | 44.6% | 6 | $14,573 |
-| Data | 524 | 59.4% | 39 | $7,810 |
-| Blockchain | 96 | 50.0% | 8 | $2,922 |
-| Verification | 211 | 46.4% | 3 | $914 |
-| Content | 70 | 40.0% | 1 | $115 |
-| Compute | 19 | 42.1% | 2 | $80 |
+| Finance | 162 | 54.9% | 7 | $231,657 |
+| AI | 229 | 50.7% | 24 | $30,574 |
+| Other | 75 | 44.0% | 6 | $14,573 |
+| Data | 529 | 58.6% | 39 | $7,810 |
+| Blockchain | 99 | 48.5% | 8 | $2,922 |
+| Verification | 214 | 45.8% | 3 | $914 |
+| Content | 69 | 40.6% | 1 | $115 |
+| Compute | 21 | 38.1% | 2 | $80 |
 
 **Top sellers with many buyers** (sellers paid mostly by one buyer are left out):
 
@@ -46,6 +46,7 @@ The pattern as of October 2026: the sellers that earn control something scarce t
 
 | Date | Sellers listed | Made $20+ | Typical seller | Market without single-buyer sellers |
 |---|---|---|---|---|
+| 2026-11-21 | 1,398 | 90 (6.4%) | $0.01 | $54,095 |
 | 2026-11-20 | 1,383 | 90 (6.5%) | $0.01 | $54,095 |
 | 2026-11-19 | 1,351 | 91 (6.7%) | $0.03 | $90,687 |
 | 2026-11-18 | 1,353 | 91 (6.7%) | $0.03 | $90,687 |
@@ -55,7 +56,6 @@ The pattern as of October 2026: the sellers that earn control something scarce t
 | 2026-11-14 | 1,330 | 91 (6.8%) | $0.03 | $90,688 |
 | 2026-11-13 | 1,323 | 91 (6.9%) | $0.03 | $90,688 |
 | 2026-11-12 | 1,305 | 92 (7.0%) | $0.04 | $90,688 |
-| 2026-11-11 | 1,309 | 92 (7.0%) | $0.04 | $90,689 |
 
 ## How to read this
 
