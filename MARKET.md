@@ -8,24 +8,24 @@
 
 ## This month
 
-- **90 of 1,443 sellers (6.2%) made $20 or more** in the last 30 days.
-- The typical seller made **$0.00**. The top quarter made $0.78 or more, and the top tenth $8 or more.
-- 726 sellers (50.3%) made at least one sale. 380 had 10 or more different buyers.
-- All listed sellers together took in **$288,641**. Of that, $234,551 (81.3%) went to 56 sellers that are paid almost entirely by one buyer. The biggest single seller, Laso Finance, took 79.4%. Without the single-buyer sellers, the market is **$54,090** a month.
+- **90 of 1,451 sellers (6.2%) made $20 or more** in the last 30 days.
+- The typical seller made **$0.00**. The top quarter made $0.76 or more, and the top tenth $8 or more.
+- 725 sellers (50.0%) made at least one sale. 379 had 10 or more different buyers.
+- All listed sellers together took in **$288,640**. Of that, $234,551 (81.3%) went to 56 sellers that are paid almost entirely by one buyer. The biggest single seller, Laso Finance, took 79.4%. Without the single-buyer sellers, the market is **$54,090** a month.
 - **This experiment's own earnings: $0.00** ([why](THREE-MONTHS-LATER.md)).
 
 ## What sells
 
 | Category | Sellers | Made a sale | Made $20+ | Paid in 30 days |
 |---|---|---|---|---|
-| Finance | 166 | 53.6% | 7 | $231,657 |
-| AI | 234 | 48.7% | 24 | $30,574 |
+| Finance | 168 | 53.0% | 7 | $231,657 |
+| AI | 235 | 48.5% | 24 | $30,574 |
 | Other | 75 | 44.0% | 6 | $14,573 |
-| Data | 547 | 56.1% | 39 | $7,805 |
-| Blockchain | 106 | 45.3% | 8 | $2,922 |
-| Verification | 222 | 44.6% | 3 | $914 |
+| Data | 550 | 55.8% | 39 | $7,805 |
+| Blockchain | 106 | 44.3% | 8 | $2,922 |
+| Verification | 223 | 44.4% | 3 | $914 |
 | Content | 71 | 39.4% | 1 | $115 |
-| Compute | 22 | 36.4% | 2 | $80 |
+| Compute | 23 | 34.8% | 2 | $80 |
 
 **Top sellers with many buyers** (sellers paid mostly by one buyer are left out):
 
@@ -46,7 +46,7 @@ The pattern as of October 2026: the sellers that earn control something scarce t
 
 | Date | Sellers listed | Made $20+ | Typical seller | Market without single-buyer sellers |
 |---|---|---|---|---|
-| 2026-11-25 | 1,443 | 90 (6.2%) | $0.00 | $54,090 |
+| 2026-11-25 | 1,451 | 90 (6.2%) | $0.00 | $54,090 |
 | 2026-11-24 | 1,419 | 90 (6.3%) | $0.01 | $54,090 |
 | 2026-11-22 | 1,398 | 90 (6.4%) | $0.01 | $54,095 |
 | 2026-11-21 | 1,398 | 90 (6.4%) | $0.01 | $54,095 |
