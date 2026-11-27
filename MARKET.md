@@ -1,29 +1,29 @@
 # Market scoreboard: can small sellers earn from AI agents yet?
 
-*Updated 2026-11-26 from the public [x402-list.com](https://x402-list.com/) directory. It refreshes itself once a day. Newest payment in the directory's data: 2026-10-28. Data: [x402-list.com](https://x402-list.com/) ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).*
+*Updated 2026-11-27 from the public [x402-list.com](https://x402-list.com/) directory. It refreshes itself once a day. Newest payment in the directory's data: 2026-10-28. Data: [x402-list.com](https://x402-list.com/) ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).*
 
-> **Warning: the source's payment data has stopped updating.** The directory has recorded no payments since 2026-10-28, 29 days before this update. Until it starts again, the sales figures below cover roughly the 30 days up to 2026-10-28, not the last 30 days.
+> **Warning: the source's payment data has stopped updating.** The directory has recorded no payments since 2026-10-28, 30 days before this update. Until it starts again, the sales figures below cover roughly the 30 days up to 2026-10-28, not the last 30 days.
 
 **The question this tracks:** if you sell something useful to AI agents, paid per use straight to a wallet with no accounts, can you make **$20 a month**?
 
 ## This month
 
-- **90 of 1,447 sellers (6.2%) made $20 or more** in the last 30 days.
-- The typical seller made **$0.00**. The top quarter made $0.76 or more, and the top tenth $8 or more.
-- 723 sellers (50.0%) made at least one sale. 379 had 10 or more different buyers.
-- All listed sellers together took in **$288,638**. Of that, $234,551 (81.3%) went to 56 sellers that are paid almost entirely by one buyer. The biggest single seller, Laso Finance, took 79.4%. Without the single-buyer sellers, the market is **$54,087** a month.
+- **89 of 1,468 sellers (6.1%) made $20 or more** in the last 30 days.
+- The typical seller made **$0.00**. The top quarter made $0.76 or more, and the top tenth $7 or more.
+- 720 sellers (49.0%) made at least one sale. 378 had 10 or more different buyers.
+- All listed sellers together took in **$288,282**. Of that, $234,551 (81.4%) went to 56 sellers that are paid almost entirely by one buyer. The biggest single seller, Laso Finance, took 79.5%. Without the single-buyer sellers, the market is **$53,732** a month.
 - **This experiment's own earnings: $0.00** ([why](THREE-MONTHS-LATER.md)).
 
 ## What sells
 
 | Category | Sellers | Made a sale | Made $20+ | Paid in 30 days |
 |---|---|---|---|---|
-| Finance | 167 | 52.7% | 7 | $231,657 |
-| AI | 233 | 48.5% | 24 | $30,571 |
-| Other | 75 | 44.0% | 6 | $14,573 |
-| Data | 549 | 55.9% | 39 | $7,805 |
-| Blockchain | 106 | 44.3% | 8 | $2,922 |
-| Verification | 223 | 44.4% | 3 | $914 |
+| Finance | 170 | 51.8% | 7 | $231,657 |
+| AI | 238 | 47.5% | 24 | $30,571 |
+| Other | 73 | 43.8% | 6 | $14,573 |
+| Data | 559 | 54.6% | 38 | $7,450 |
+| Blockchain | 108 | 43.5% | 8 | $2,922 |
+| Verification | 226 | 43.8% | 3 | $914 |
 | Content | 71 | 39.4% | 1 | $115 |
 | Compute | 23 | 34.8% | 2 | $80 |
 
@@ -46,6 +46,7 @@ The pattern as of October 2026: the sellers that earn control something scarce t
 
 | Date | Sellers listed | Made $20+ | Typical seller | Market without single-buyer sellers |
 |---|---|---|---|---|
+| 2026-11-27 | 1,468 | 89 (6.1%) | $0.00 | $53,732 |
 | 2026-11-26 | 1,447 | 90 (6.2%) | $0.00 | $54,087 |
 | 2026-11-25 | 1,451 | 90 (6.2%) | $0.00 | $54,090 |
 | 2026-11-24 | 1,419 | 90 (6.3%) | $0.01 | $54,090 |
@@ -55,7 +56,6 @@ The pattern as of October 2026: the sellers that earn control something scarce t
 | 2026-11-19 | 1,351 | 91 (6.7%) | $0.03 | $90,687 |
 | 2026-11-18 | 1,353 | 91 (6.7%) | $0.03 | $90,687 |
 | 2026-11-17 | 1,356 | 91 (6.7%) | $0.02 | $90,687 |
-| 2026-11-16 | 1,343 | 91 (6.8%) | $0.03 | $90,687 |
 
 ## How to read this
 
